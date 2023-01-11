@@ -30,3 +30,9 @@
         transform: translate3d(0, 0, 0);
     }
 }
+
+@media only screen and (max-device-width: 480px) {
+    .icon {
+        font-size: 120px;
+    }
+}
