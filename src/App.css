@@ -14,3 +14,10 @@
     color: #5f9ea0;
     font-size: 14px;
 }
+
+@media only screen and (max-device-width: 480px) {
+    .App {
+        justify-content: flex-start;
+        padding-top: 10rem;
+    }
+}
