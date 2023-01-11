@@ -35,3 +35,10 @@
 .rollDice button {
     margin-top: 10px;
 }
+
+@media only screen and (max-device-width: 480px) {
+    .btn {
+        font-size: 12em;
+        background: #5f9ea0;
+    }
+}
